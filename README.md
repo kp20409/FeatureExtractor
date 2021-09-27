@@ -2,7 +2,7 @@
 
 ## About model
 This is the machine learning model that is based on the Feature Extraction Transfer Learning. Uisng this model is very easy.
-* Download the dataset from github [link](https://github.com/sagihaider/TransferLearning_COVID19) 
+* Download the dataset from github [link](https://github.com/UCSD-AI4H/COVID-CT) 
 * Fork this repository and download this repository.
 * Open the repository in the jupyter notebook and run the notebook.
 * Following are the pre-requisites for running the model:
